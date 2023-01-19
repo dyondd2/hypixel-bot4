@@ -8,7 +8,7 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1065424923356573777/W5Eq-UNXPGaAFqt-azVzSXaNUcz5L9Kono0PmDZXjbbvrKLHn5Ynq6p_RiY_wskMnm8c"
     },
 
     "discord": {
@@ -16,8 +16,8 @@
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "8798f078-12e2-41aa-9d60-fc1ffe44afe6",
+        "client_secret": "MI~8Q~akxdy0vcoISBII-CKJyvL8exeAEal09bTT",
+        "redirect_uri": "https://mcloverr.onrender.com"
     }
 }
